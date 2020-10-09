@@ -4,13 +4,17 @@ import Koa from 'koa';
 import Router from 'koa-router';
 import bodyParser from 'koa-bodyparser';
 import mongoose from 'mongoose';
+
 import api from './api';
+import createFakeDate from './createFakeData';
+
 const { PORT, MONGO_URI } = process.env;
 
 mongoose
   .connect(MONGO_URI, { useNewUrlParser: true, useFindAndModify: false, useUnifiedTopology:true  })
   .then(() => {
     console.log('Mongo DB 연결');
+    createFakeDate();
   })
   .catch((e) => {
     console.error(e);
