@@ -1,4 +1,4 @@
-# Blog_Backend, Frontend
+# ![]()Blog_Backend, Frontend
 
 ## Backend
 
@@ -39,15 +39,4 @@
   * ![1604914442049](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914442049.png)
 * 게시물 수정, 삭제 
   * ![1604914490491](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914490491.png)
-
-
-
-
-
-
-
-
-
-
-
 
