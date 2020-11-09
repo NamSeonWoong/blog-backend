@@ -33,12 +33,27 @@
   * 
 
 * 회원가입, 회원로그인 구현
+
   * ![1604914344140](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914344140.png)
   * ![1604914376580](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914376580.png)
+
 * 게시물 작성하기
+
   * ![1604914442049](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914442049.png)
+
 * 게시물 수정, 삭제 
-  * ![1604914490491](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914490491.png)
+
+  ![1604914490491](C:\Users\Seon woong\AppData\Roaming\Typora\typora-user-images\1604914490491.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
